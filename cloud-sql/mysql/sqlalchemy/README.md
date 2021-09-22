@@ -2,6 +2,8 @@
 
 ## Before you begin
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 1. If you haven't already, set up a Python Development Environment by following the [python setup guide](https://cloud.google.com/python/setup) and 
 [create a project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project).
 
